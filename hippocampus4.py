@@ -87,4 +87,5 @@ def start():
 
     go({"ready": entorhinal_cortex()})
 
+if __name__ == "__main__"
 start()
